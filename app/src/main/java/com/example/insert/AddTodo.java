@@ -22,6 +22,7 @@ public class AddTodo extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_todo);
 
+        //link views
         title=findViewById(R.id.et4);
         desptn =findViewById(R.id.et5);
         add = findViewById(R.id.btn4);
