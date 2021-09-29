@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">insert</string>
+    <string name="btn1n">Add Todo</string>
+    <string name="tv3n">You have x todos in today</string>
+    <string name="tv4n">Add a New ToDo</string>
+    <string name="et1n">Title</string>
+    <string name="et2n">Description</string>
+    <string name="btn2n">ADD TODO</string>
+    <string name="tv5n">Edit To Do</string>
+    <string name="btn3n">Edit to do</string>
+</resources>
