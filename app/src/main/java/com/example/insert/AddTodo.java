@@ -11,6 +11,7 @@ import android.widget.EditText;
 
 public class AddTodo extends AppCompatActivity {
 
+    //views
     private EditText title,desptn ;
     private Button add;
     private DbHandler dbHandler;
